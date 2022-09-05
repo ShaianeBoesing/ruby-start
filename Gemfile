@@ -1,4 +1,5 @@
-source 'https//rubygems.org'
+source 'https://rubygems.org'
 
-gem 'OS'
+gem 'os'
 gem 'http', '~> 5.1'
+gem 'cpf_cnpj'
