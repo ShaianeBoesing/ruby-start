@@ -10,3 +10,5 @@ end
 my_hash.each do |key, value|
     puts "Uma das chaves é #{key} e o seu valor é: #{value}"
 end
+
+puts my_hash
